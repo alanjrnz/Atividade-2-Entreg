@@ -1,0 +1,4 @@
+Esse é o commit inicial da minha atividade.
+Na matéria de Entrega contínua, utilizando git.
+Está é a segunda parte das alterações.
+asdadasdada
